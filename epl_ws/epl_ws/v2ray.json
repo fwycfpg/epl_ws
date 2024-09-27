@@ -6,7 +6,7 @@
 	},
 	"inbounds": [
 		{
-			"port": 10809,
+			"port": 18088,
 			"protocol": "vmess",
 			"settings": {
 				"clients": [
@@ -32,7 +32,7 @@
 		,
         {
             "protocol": "socks",
-            "port": 10808,
+            "port": 18080,
             "settings": {
                 "auth": "password",
                 "accounts": [
